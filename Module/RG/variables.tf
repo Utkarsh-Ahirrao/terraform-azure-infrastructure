@@ -1,0 +1,1 @@
+variable "prod_rg"{}

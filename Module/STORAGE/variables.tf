@@ -1,0 +1,1 @@
+variable "prod_stg_acc"{}
